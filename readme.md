@@ -83,3 +83,8 @@ myPresent = {
   santa.checkPresents("Paul")
 ```
 12. If you have a new present, put it at the top of your code as the value for myPresent and then see what you have got! __Remember to uncomment the run function__.
+
+13. __Problems?__ 
+    1. Make sure you send presents with the right name and the first letter in capitals e.g. "Paul"
+    2. Make sure you check with the same name you have put in the chat and the first letter capitalised..
+
